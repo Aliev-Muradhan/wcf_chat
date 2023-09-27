@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcf_chat", "wcf_chat\wcf_chat.csproj", "{81546327-3FF7-4578-8912-E8CB3D203A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatHost", "ChatHost\ChatHost.csproj", "{ACA6E788-284A-4385-A52C-D1193BD32688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatClient", "ChatClient\ChatClient.csproj", "{B3CF5D59-2090-45E1-9ED2-193900797212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81546327-3FF7-4578-8912-E8CB3D203A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81546327-3FF7-4578-8912-E8CB3D203A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81546327-3FF7-4578-8912-E8CB3D203A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81546327-3FF7-4578-8912-E8CB3D203A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA6E788-284A-4385-A52C-D1193BD32688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA6E788-284A-4385-A52C-D1193BD32688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA6E788-284A-4385-A52C-D1193BD32688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA6E788-284A-4385-A52C-D1193BD32688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3CF5D59-2090-45E1-9ED2-193900797212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3CF5D59-2090-45E1-9ED2-193900797212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3CF5D59-2090-45E1-9ED2-193900797212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3CF5D59-2090-45E1-9ED2-193900797212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BEAF1E1-97CF-475C-A072-42212EB16597}
+	EndGlobalSection
+EndGlobal
